@@ -1,0 +1,23 @@
+# Keil MDK-ARM compilation artifacts
+*.o
+*.d
+*.crf
+*.axf
+*.lnp
+*.sct
+*.htm
+*.dep
+*.build_log.htm
+*.map
+*.lst
+*.bak
+*.uvgui.*
+*.uvopt
+*.uvoptx
+*.orig
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
